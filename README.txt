@@ -1,0 +1,1 @@
+CLAS = Créer, Lire, Actualiser, Supprimer
